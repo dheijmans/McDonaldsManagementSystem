@@ -1,0 +1,16 @@
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\bin\Debug\StaffManagement.exe.config
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\bin\Debug\StaffManagement.exe
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\bin\Debug\StaffManagement.pdb
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\bin\Debug\StaffManagement.xml
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.vbprojAssemblyReference.cache
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.About.resources
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.Employee.resources
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.Help.resources
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.Resources.resources
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.StaffDetails.resources
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.Statistics.resources
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.vbproj.GenerateResource.cache
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.vbproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.exe
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.xml
+D:\Programming\Visual Studio\McDonaldsManagementSystem\StaffManagement\obj\Debug\StaffManagement.pdb

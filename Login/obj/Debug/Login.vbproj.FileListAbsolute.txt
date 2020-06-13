@@ -1,0 +1,17 @@
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\bin\Debug\Login.exe.config
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\bin\Debug\Login.exe
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\bin\Debug\Login.pdb
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\bin\Debug\Login.xml
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\bin\Debug\StaffManagement.exe
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\bin\Debug\StaffManagement.pdb
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\bin\Debug\StaffManagement.xml
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\bin\Debug\StaffManagement.exe.config
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\obj\Debug\Login.vbprojAssemblyReference.cache
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\obj\Debug\Login.LoginScreen.resources
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\obj\Debug\Login.Resources.resources
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\obj\Debug\Login.vbproj.GenerateResource.cache
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\obj\Debug\Login.vbproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\obj\Debug\Login.vbproj.CopyComplete
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\obj\Debug\Login.exe
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\obj\Debug\Login.xml
+D:\Programming\Visual Studio\McDonaldsManagementSystem\Login\obj\Debug\Login.pdb
